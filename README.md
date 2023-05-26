@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Suraj
+
+I am a rising senior at Brown University pursuing an M.S. in Computer Science concurrently with a B.Sc. in Applied Mathematics-Computer Science. I am interested in (1) solving complex engineering problems and (2) exploring fascinating mathematic/scientific ideas. My goal is to build algorithms that learn how to do useful things and are aligned with human values. This Summer, I am interning at Point72 in the Market Intelligence, Proprietary Research division for data science. I also do research in the [LUNAR Lab](https://lunar.cs.brown.edu/) focused on investigating compositionality using causal interventions methods with Dr. Ellie Pavlick.
+
+I've also been working on a couple of other ideas that I find interesting. Please check out my [blog](https://surajk610.github.io/) to learn more! 🐊
+Need to reach me! Contact me at [username]@gmail.com.
 
 <!--
 **surajK610/surajK610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
