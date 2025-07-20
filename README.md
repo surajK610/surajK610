@@ -1,10 +1,12 @@
 ### Hi there 👋, I'm Suraj
 
-I am a 2024 graduate of [Brown University](https://www.brown.edu/) with an M.S. in Computer Science and a B.Sc. in Applied Mathematics-Computer Science. I am interested in (1) solving complex engineering problems and (2) exploring fascinating mathematic/scientific ideas. My goal is to build algorithms that learn how to do useful things and are aligned with human values. I currently work as a Quantitative Researcher at [Point72](https://point72.com/) focused on using NLP research methods to find signal. I previously conducted research in the [LUNAR Lab](https://lunar.cs.brown.edu/) focused on learning dynamics of in context learning, investigating compositionality using causal interventions methods, mechanistic interpretability, and reinforcement learning from human feedback with Dr. Ellie Pavlick. I have previously collaborated with EleutherAI. 
+I am a 2024 graduate of [Brown University](https://www.brown.edu/) with an M.S. in Computer Science and a B.Sc. in Applied Mathematics-Computer Science. I am interested in (1) solving complex engineering problems and (2) exploring fascinating mathematic/scientific ideas. My goal is to build algorithms that learn how to do useful things and are aligned with human values. I'm especially interested in **Interpretability Research** and **GPU Optimization**.
+
+I currently work as a Quantitative Researcher at [Point72](https://point72.com/) focused on using NLP research methods to find signal. I previously conducted research in the [LUNAR Lab](https://lunar.cs.brown.edu/) focused on learning dynamics of in context learning, investigating compositionality using causal interventions methods, mechanistic interpretability, and reinforcement learning from human feedback with Dr. Ellie Pavlick. I have previously collaborated with EleutherAI. 
 
 I've also been working on a couple of other ideas that I find interesting. Please check out my [blog](https://surajk610.github.io/) to learn more! 🐊
 
-Need to reach me! Contact me at {username} at gmail dot com.
+Need to reach me! Contact me at {username}@gmail.com.
 
 <!--
 **surajK610/surajK610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
