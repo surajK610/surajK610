@@ -4,7 +4,7 @@ I am a 2024 graduate of [Brown University](https://www.brown.edu/) with an M.S. 
 
 I've also been working on a couple of other ideas that I find interesting. Please check out my [blog](https://surajk610.github.io/) to learn more! 🐊
 
-Need to reach me! Contact me at {username}@gmail.com.
+Need to reach me! Contact me at {username} at gmail dot com.
 
 <!--
 **surajK610/surajK610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
